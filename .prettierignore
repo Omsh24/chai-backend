@@ -1,0 +1,10 @@
+# to stop prettier from working on any of these files
+
+/.vscode
+/node_modules
+./dist
+
+
+*.env
+.env
+.env.*
